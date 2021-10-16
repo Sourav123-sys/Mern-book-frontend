@@ -18,7 +18,7 @@ array:[]
     {
 
         _id:2,
-        name:'$10 to 9',
+        name:'$10 to 19',
         array:[10,19]
         
         },
